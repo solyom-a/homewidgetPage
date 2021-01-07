@@ -15,6 +15,9 @@
         <li><a href="https://healthglance.solyoma.dev" id="{{- _slug -}}-link">
             <span class="icon fa-heart">HealthGlance</span>
           </a></li>
+                  <li><a href="https://wristcontrol.solyoma.dev" id="{{- _slug -}}-link">
+            <span class="icon fa-home">WristControl</span>
+          </a></li>
     {%- assign _pages = site.html_pages | where_exp: "page", "page.hide != true" -%}
     {%- unless _pages == null -%}
       {%- assign _pages = _pages | sort: 'order' -%}

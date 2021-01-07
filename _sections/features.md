@@ -4,13 +4,13 @@ icon: fa-list-ul
 order: 3
 ---
 
-- Scenes: Add any existing HomeKit scene, and trigger with a simple tap. You can choose between a compact grid view with icons only, or a more detailed list view with names too.
-- Favorites: Choose from list of compatible accessories for quick access. Tap on accessories to turn them on/off
-- All: All compatible accessories will be shown here, but you can hide any if you want
-- For all scenes and accessories you can choose from over 270 icons
-- Reorder accessories and scenes
-- Every scene can be turned into a complication, using the complication to open the app will automatically run the scene.
-- Support for multiple homes
-- Cameras and video doorbells supported
-- Standalone watch app: every functionality and setting available right on your watch, even when your phone is out of range
-- Complication with custom icon and color to launch the app
+Tapping the icon of a scene on the widget will open the app and automatically execute the scene without any other action from you.
+- Choose from over 300 colorful icons or 180 tinted icons for your scenes
+- Medium size widgets can show up to 18 scenes
+- Large size widgets can show up to 36 scenes
+- After scene is successfully run app will automatically return to home screen
+- Icon size dynamically adjusts to fit the widget depending on the number of scenes you added
+- Small size widgets can only show a single scene due to technical limitations
+- Choose from grid view with many scenes, or list view that also shows scene names
+- Custom widget background and text color
+- To run a scene simply tap any scene on the widget. Thats it. The scene is running.
